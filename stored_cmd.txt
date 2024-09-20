@@ -1,0 +1,7 @@
+L; student-mat.csv
+S; Health
+H; StudyTime
+W; Age
+G; G_Avg
+B; Age
+Q; Quit
